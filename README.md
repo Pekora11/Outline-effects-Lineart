@@ -45,8 +45,6 @@ If you feel inspired to push this project to the next level, here are key areas 
 - [ ] **Performance & Multithreading:** Implement asynchronous image rendering to prevent UI freezes on high-res images.
 - [ ] **UI Modernization:** Migrate from standard Tkinter to modern frameworks like `CustomTkinter`, `PyQt`, or `PySide`.
 - [ ] **Mathematical Optimization:** Fine-tune the color distance ($\Delta E$) calculation algorithm inside `rapidresizer_core.py`.
-- [ ] **Cross-Platform Compatibility:** Build native packaging and build scripts for macOS and Linux.
-
 ---
 
 ## 🚀 Requirements & Quickstart
