@@ -62,4 +62,4 @@ cd lineart-converter
 pip install -r requirements.txt
 
 # Run the application
-python3 lineart_gui.py
+python lineart_gui.py
